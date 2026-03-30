@@ -41,8 +41,9 @@ git clone https://github.com/thatavarthi321/Grocery-Management-System.git
 Navigate to the project folder:
 cd Grocery-Management-System
 
-Run the project:
-python main.py
+Run SQL queries:
+Open your SQL environment (MySQL / PostgreSQL)
+Execute queries from sql_queries.sql
 
 ## 📊 Results
 
